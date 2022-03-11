@@ -34,3 +34,4 @@ Here are some ideas to get you started:
   <br>
   📫 How to reach me: <a href="mailto: hsm15031585502@163.com">hsm15031585502@163.com</a>
 </p>
+<p align="center">I hope there are more stars. Every star of yours is my motivation to move forward. Thank you</p>
