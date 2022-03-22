@@ -14,16 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=heshimang.heshimang">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshimang)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshimang&show_icons=true&theme=radical)
+
 <p align="center">
   Hi, I'm Shimang He, A Dev Developer from China
   <br>
