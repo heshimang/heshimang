@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshimang)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <p align="center">
   Hi, I'm Shimang He, A Dev Developer from China
