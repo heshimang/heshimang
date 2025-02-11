@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <br>
   💬 Ask me anything about from <a href="https://github.com/heshimang/heshimang/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: hsm15031585502@163.com">hsm15031585502@163.com</a>
+  📫 How to reach me: <a href="mailto: heshimang@163.com">heshimang@163.com</a>
   <br>
   💁 More information about me: <a href="https://heshimang.github.io">heshimang.github.io</a>
 </p>
